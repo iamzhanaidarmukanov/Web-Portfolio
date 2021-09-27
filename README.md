@@ -1,2 +1,2 @@
 # Web-Portfolio
-Landing Page Descriptive Portfolio
+Landing Page Portfolio
